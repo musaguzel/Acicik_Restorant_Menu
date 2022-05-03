@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371181101266",
+    "project_id": "acicikrestaurant",
+    "storage_bucket": "acicikrestaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371181101266:android:828b155143481dbeb1cd0b",
+        "android_client_info": {
+          "package_name": "com.musaguzel.acicik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371181101266-a5libumanbnc3833nu0leoks7nmctere.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxoTjgL-ra8Gaf75cmxU6Vza6w9GnH4U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371181101266-a5libumanbnc3833nu0leoks7nmctere.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
